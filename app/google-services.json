@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "465409083479",
+    "firebase_url": "https://lab-switch.firebaseio.com",
+    "project_id": "lab-switch",
+    "storage_bucket": "lab-switch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465409083479:android:b52b83d4253c19fd81fb12",
+        "android_client_info": {
+          "package_name": "buttons.storytelleraman.com.labswitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465409083479-mschq6uf3n3d5ibcleu3lmov10j3pa6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "buttons.storytelleraman.com.labswitch",
+            "certificate_hash": "f0934ad97aa2ee0d90fda64ccd7d640d1a77831d"
+          }
+        },
+        {
+          "client_id": "465409083479-q6p3ts9sgknvvi0pivjv22nrto000uq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXUYpFC6yDU2Q3JHWq-gGXR15iTE54Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465409083479-q6p3ts9sgknvvi0pivjv22nrto000uq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

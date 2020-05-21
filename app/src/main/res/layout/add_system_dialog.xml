@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/IP_dialog_id"
+        android:hint="IP_address"
+        android:textColorHint="@color/blue"
+        android:textAlignment="center"
+        android:layout_marginTop="45dp"
+        android:outlineAmbientShadowColor="@color/blue"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/blue"
+        android:textColorHighlight="@color/dark_blue"
+        android:backgroundTint="@color/dark_blue">
+
+    </EditText>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Sys_name_id"
+        android:text="System 1"
+        android:textAlignment="center"
+        android:layout_marginTop="25dp"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/blue"
+        android:textColorHighlight="@color/dark_blue"
+        android:backgroundTint="@color/dark_blue">
+
+    </EditText>
+
+
+</LinearLayout>

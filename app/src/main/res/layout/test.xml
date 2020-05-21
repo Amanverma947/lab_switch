@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <RadioButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ON"
+        android:textSize="50dp"
+        android:textColor="@color/dark_blue"
+        android:padding="4dp"
+        android:outlineAmbientShadowColor="@color/blue">
+
+    </RadioButton>
+    <RadioButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OFF"
+        android:textSize="50dp"
+        android:textColor="@color/dark_blue"
+        android:padding="4dp"
+        android:outlineAmbientShadowColor="@color/blue">
+
+    </RadioButton>
+
+
+</LinearLayout>
